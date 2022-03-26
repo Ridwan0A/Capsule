@@ -1,9 +1,11 @@
 # Capsule
 
 On startup, the Java application prompts the administrator for the hotel's capacity. The capacity determines how many rooms are available.
-The administrator may book a guest in an unoccupied numbered room.
-The administrator may check out a guest from an occupied room.
-The administrator may view guests and their room numbers in groups of 10.
+The administrator can book a guest in an unoccupied numbered room.
+The administrator can check out a guest from an occupied room.
+The administrator can view guests and their room numbers in groups of 10.
+
+
 Example:
 
 Welcome to Hotel Hotel
