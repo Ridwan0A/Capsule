@@ -1,6 +1,7 @@
 # Capsule
+The Java program prompts the administrator for the hotel's capacity. 
 
-On startup, the Java application prompts the administrator for the hotel's capacity. The capacity determines how many rooms are available.
+The capacity determines how many rooms are available.
 The administrator can book a guest in an unoccupied numbered room.
 The administrator can check out a guest from an occupied room.
 The administrator can view guests and their room numbers in groups of 10.
